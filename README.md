@@ -12,4 +12,5 @@ churches, schools, or ONGs to ensure that food is distributed equitably and effi
 Everything is done through LocalStorage.
 
 **Preview**
+Acesse em: https://nenphy.github.io/ProjetoIfes/
 ![alt text](https://github.com/Nenphy/ProjetoIfes/blob/main/assets/img/index.png)
