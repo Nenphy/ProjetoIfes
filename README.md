@@ -11,6 +11,6 @@ With the theme of food scarcity (and 48 hours to complete the project), the webs
 churches, schools, or ONGs to ensure that food is distributed equitably and efficiently; along with Donors. It is also possible to register the specific types of food that one wishes to receive. 
 Everything is done through LocalStorage.
 
-**Preview**
+## 🌐 Preview: 
 Acesse em: https://nenphy.github.io/ProjetoIfes/
 ![alt text](https://github.com/Nenphy/ProjetoIfes/blob/main/assets/img/index.png)
